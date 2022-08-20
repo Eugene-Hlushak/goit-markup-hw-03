@@ -48,6 +48,7 @@ p {
 }
 
 .section {
+  padding-top: 94px;
   padding-bottom: 94px;
 }
 
@@ -142,9 +143,6 @@ p {
 
 /* ===== HERO ===== */
 
-.features.section {
-  padding-top: 94px;
-}
 .hero {
   text-align: center;
   padding-top: 200px;
@@ -248,7 +246,6 @@ p {
 }
 
 .team .section-title {
-  padding-top: 94px;
   margin-bottom: 50px;
 }
 .team-list {
@@ -329,10 +326,6 @@ p {
 }
 
 /* ===== PORTFOLIO ===== */
-
-.portfolio.section {
-  padding-top: 94px;
-}
 
 .filters-list {
   display: flex;
